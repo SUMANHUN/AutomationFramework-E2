@@ -65,6 +65,7 @@ public class CreateContactWithOrganizationTest extends BaseClass {
 		Assert.assertTrue(ContactHeader.contains(LASTNAME));
 		System.out.println(ContactHeader);
 		
+		System.out.println("hai");
 	}
 }
 
