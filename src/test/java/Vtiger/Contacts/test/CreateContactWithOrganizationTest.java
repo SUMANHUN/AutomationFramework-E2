@@ -66,6 +66,7 @@ public class CreateContactWithOrganizationTest extends BaseClass {
 		System.out.println(ContactHeader);
 		
 		System.out.println("hai");
+		System.out.println("hai");
 	}
 }
 
